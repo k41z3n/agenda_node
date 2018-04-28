@@ -89,7 +89,7 @@ class EventManager {
             interval: 30,
             minTime: '5',
             maxTime: '23:59:59',
-            defaultTime: '',
+            defaultTime: '8',
             startTime: '5:00',
             dynamic: false,
             dropdown: true,
